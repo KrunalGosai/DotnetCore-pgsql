@@ -1,0 +1,14 @@
+/home/finix/Documents/Core/bin/Debug/netcoreapp2.1/Core.deps.json
+/home/finix/Documents/Core/bin/Debug/netcoreapp2.1/Core.runtimeconfig.json
+/home/finix/Documents/Core/bin/Debug/netcoreapp2.1/Core.runtimeconfig.dev.json
+/home/finix/Documents/Core/bin/Debug/netcoreapp2.1/Core.dll
+/home/finix/Documents/Core/bin/Debug/netcoreapp2.1/Core.pdb
+/home/finix/Documents/Core/obj/Debug/netcoreapp2.1/Core.csprojAssemblyReference.cache
+/home/finix/Documents/Core/obj/Debug/netcoreapp2.1/Core.csproj.CoreCompileInputs.cache
+/home/finix/Documents/Core/obj/Debug/netcoreapp2.1/Core.RazorAssemblyInfo.cache
+/home/finix/Documents/Core/obj/Debug/netcoreapp2.1/Core.RazorAssemblyInfo.cs
+/home/finix/Documents/Core/obj/Debug/netcoreapp2.1/Core.AssemblyInfoInputs.cache
+/home/finix/Documents/Core/obj/Debug/netcoreapp2.1/Core.AssemblyInfo.cs
+/home/finix/Documents/Core/obj/Debug/netcoreapp2.1/Core.RazorTargetAssemblyInfo.cache
+/home/finix/Documents/Core/obj/Debug/netcoreapp2.1/Core.dll
+/home/finix/Documents/Core/obj/Debug/netcoreapp2.1/Core.pdb
